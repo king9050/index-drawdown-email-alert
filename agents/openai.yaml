@@ -1,0 +1,6 @@
+interface:
+  display_name: "Index Drawdown Email Alert"
+  short_description: "Configurable S&P 500 and Nasdaq drawdown emails"
+  default_prompt: "Use $index-drawdown-email-alert to configure a recurring drawdown email alert."
+policy:
+  allow_implicit_invocation: true
