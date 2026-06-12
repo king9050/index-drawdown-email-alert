@@ -1,0 +1,10 @@
+{
+  "recipient": "investor@example.com",
+  "send_time": "07:30",
+  "timezone": "Asia/Shanghai",
+  "language": "bilingual",
+  "thresholds": [10, 20, 30, 40, 50, 60, 70, 80, 90],
+  "weekdays": ["MO", "TU", "WE", "TH", "FR"],
+  "indices": ["sp500", "nasdaq100"],
+  "subject_prefix": "标普纳指回撤提醒"
+}
